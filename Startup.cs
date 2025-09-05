@@ -62,5 +62,7 @@ namespace AlunosApi
                 endpoints.MapControllers();
             });
         }
+
+
     }
 }
