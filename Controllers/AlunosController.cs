@@ -84,11 +84,11 @@ namespace AlunosApi.Controllers
         }
 
         [HttpPut("{id:int}")]
-        public async Task<ActionResult> Edit(int id,[FromBody] Aluno aluno)
+        public async Task<ActionResult> Edit(int id, [FromBody] Aluno aluno)
         {
             try
             {
-                if(aluno.Id == id)
+                if (aluno.Id == id)
                 {
                     await _alunoService.UpdateAluno(aluno);
                     //return NoContent();
@@ -105,5 +105,27 @@ namespace AlunosApi.Controllers
             }
         }
 
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            try
+            {
+                var aluno = await _alunoService.GetAluno(id);
+                if (aluno != null)
+                {
+                    await _alunoService.DeleteAluno(aluno);
+                    return Ok($"Aluno de id={id} foi excluido com sucesso");
+                }
+                else
+                {
+                    return NotFound($"Aluno com id={id} não encontrado");
+                }
+            }
+            catch
+            {
+                return BadRequest("Request inválido");
+            }
+
+        }
     }
 }

@@ -1,30 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\migrations\\20250906055924_inicialpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:migrations\\20250906055924_inicialpostgres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\alunosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:alunosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\aluno\\downloads\\alunosapi\\alunosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:services\\alunosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|c:\\users\\administrador\\desktop\\trabalhos_faculdade\\alunosapi\\alunosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0231D494-E3BC-4551-8322-1561DD405087}|AlunosApi.csproj|solutionrelative:alunosapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,83 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AlunosApi",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
-              "RelativeDocumentMoniker": "AlunosApi.csproj",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\AlunosApi.csproj",
-              "RelativeToolTip": "AlunosApi.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T18:07:58.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
-              "RelativeDocumentMoniker": "Models\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Models\\Aluno.cs",
-              "RelativeToolTip": "Models\\Aluno.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250906055924_InicialPostgres.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Migrations\\20250906055924_InicialPostgres.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250906055924_InicialPostgres.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Migrations\\20250906055924_InicialPostgres.cs",
+              "RelativeToolTip": "Migrations\\20250906055924_InicialPostgres.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T18:01:39.448Z"
+              "WhenOpened": "2025-09-06T05:59:25.14Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T18:01:01.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AlunosController.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Controllers\\AlunosController.cs",
               "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Controllers\\AlunosController.cs",
               "RelativeToolTip": "Controllers\\AlunosController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAywDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAtwB4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T16:57:54.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:55:52.849Z"
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T18:01:01.679Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Startup.cs",
-              "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Downloads\\AlunosApi\\AlunosApi\\Startup.cs",
-              "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T16:55:52.003Z"
+              "WhenOpened": "2025-09-05T16:55:52.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:55:52.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "Services\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "Services\\IAlunoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T04:42:14.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlunosApi",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\AlunosApi.csproj",
+              "RelativeDocumentMoniker": "AlunosApi.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\AlunosApi.csproj",
+              "RelativeToolTip": "AlunosApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T18:07:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:01:39.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunosService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Services\\AlunosService.cs",
+              "RelativeDocumentMoniker": "Services\\AlunosService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Desktop\\trabalhos_faculdade\\AlunosApi\\Services\\AlunosService.cs",
+              "RelativeToolTip": "Services\\AlunosService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T04:42:17.909Z",
+              "EditorCaption": ""
             }
           ]
         }

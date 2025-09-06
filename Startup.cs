@@ -27,10 +27,11 @@ namespace AlunosApi
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+       public void ConfigureServices(IServiceCollection services)
         {
+            // AQUI ESTÁ A CORREÇÃO!
             services.AddDbContext<AppDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+                options.UseNpgsql(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddScoped<IAlunoService, AlunosService>();
 
